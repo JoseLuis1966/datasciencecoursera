@@ -1,8 +1,0 @@
----
-title: "holamundo"
-author: "hinojal"
-date: "11 de junio de 2017"
-output: html_document
----
-
-## This is a markdown file
